@@ -10,7 +10,7 @@ Source: https://data.nasa.gov/dataset/Global-Landslide-Catalog-Export/dd9e-wu2v/
 
 ## What should be done
 
-1. Digging the number of fatalities at multi-angle (landslide_size, distribution, and clusters) for better analysis.
+1. Digging the number of fatalities at multi-angle (population, landslide_size, distribution, clusters) for better analysis.
 2. Modifying the latitude and longitude calculation while clustering (considering that earth is a sphere)
 3. Find the best number of clusters (so far I just set the number of cluster as 5)
 4. Increasing the size of the dataset
