@@ -14,4 +14,4 @@ Source: https://data.nasa.gov/dataset/Global-Landslide-Catalog-Export/dd9e-wu2v/
 2. Modifying the latitude and longitude calculation while clustering (considering that earth is a sphere)
 3. Find the best number of clusters using kmeans.score() (so far I just set the number of cluster as 5)
 4. Increasing the size of the dataset
-5. Adding scatter plot of the clustering for visualization
+5. Adding scatter plot of the clustering for visualization [DONE]
