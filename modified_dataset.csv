@@ -1,101 +1,101 @@
-,fatalities,landslide_size,latitude,longitude
-39,10.0,Medium,33.7033,73.038
-3318,0.0,Small,49.0022,-122.7576
-3323,0.0,Small,41.549,-124.0611
-4922,13.0,Large,30.6945,79.0544
-2538,0.0,Small,34.2266,-118.0306
-9013,0.0,Small,20.89202644,-156.2165371
-3948,3.0,Medium,24.808,93.117
-6245,0.0,Medium,20.7916,97.0484
-1659,0.0,Medium,-22.7594,-43.1093
-7679,0.0,Medium,60.6272,5.9061
-7226,3.0,Medium,-7.6423,111.879
-3281,0.0,Medium,33.5599,-117.54
-1943,0.0,Medium,40.4507,-79.9773
-5085,1.0,Medium,31.4711,77.6746
-1253,0.0,Medium,16.4992,120.566
-1477,0.0,Medium,-13.4459682,-72.26000997
-2544,0.0,Medium,17.7718,-64.802
-2013,1.0,Medium,13.9457,121.1622
-4968,0.0,Medium,10.9628,77.5947
-3872,0.0,Medium,31.7083,76.9316
-1292,20.0,Large,-4.0666,37.7503
-6135,0.0,Small,49.8153,-102.3192
-5581,0.0,Small,7.9441,98.288
-8907,5.0,Medium,13.6016,-87.1482
-2431,0.0,Medium,16.5141,80.6055
-1129,11.0,Medium,15.4669,43.567
-6796,0.0,Medium,34.2092,74.321
-9347,0.0,Medium,6.9793,80.4562
-3051,0.0,Medium,9.6389,124.0367
-1732,0.0,Medium,-22.8929,-43.1124
-872,5.0,Medium,-4.5,121.729
-6683,0.0,Medium,34.1716,-118.993
-6380,0.0,Small,34.5288,-120.1725
-6048,0.0,Medium,-5.8141,-35.2059
-8577,13.0,Medium,24.9434,67.0645
-1107,2.0,Medium,26.8992,88.1667
-1997,8.0,Medium,17.8975,73.2961
-2740,0.0,Medium,16.6604,120.9317
-2574,0.0,Medium,-29.4884,152.446
-6699,0.0,Small,45.2091,-116.7067
-8359,0.0,Small,21.3996,-157.8939
-1637,0.0,Medium,-22.8852,-43.0631
-5874,0.0,Medium,45.6516,-121.5602
-6659,1.0,Medium,11.5644,-85.5964
-1881,0.0,Medium,9.929,-84.4428
-6667,0.0,Medium,8.8229,-82.8416
-3683,0.0,Large,31.4768,103.5902
-7066,0.0,Small,28.1046,84.6634
-5881,0.0,Medium,47.3174,-122.1323
-9442,0.0,Medium,20.3852,121.9206
-7230,0.0,Medium,36.8532,75.4377
-3417,0.0,Small,35.1802,-88.9436
-4217,1.0,Medium,28.1038,85.0548
-7768,0.0,Small,38.432,-81.7718
-4964,0.0,Medium,43.1674,-91.1351
-2910,0.0,Small,47.5121,-122.3919
-9436,0.0,Medium,-40.9345,145.6226
-2406,0.0,Medium,30.7059,76.9844
-1856,3.0,Medium,0.9751,34.294
-7556,0.0,Medium,32.9961,75.1994
-2942,0.0,Medium,7.4239,80.6104
-6550,0.0,Small,-18.0608,178.5112
-3287,0.0,Small,37.6456,-121.9157
-8935,0.0,Medium,41.4816,72.3119
-1662,0.0,Medium,-22.9801,-43.2328
-5292,0.0,Medium,1.3743,34.4057
-3062,0.0,Medium,-36.7929,175.0955
-3379,0.0,Medium,39.0744,-84.6449
-6072,0.0,Medium,44.5768,-93.8457
-7149,0.0,Small,41.215,-81.59
-8989,0.0,Medium,38.0072,-108.044
-8630,0.0,Large,34.6685,-118.4041
-7688,1.0,Small,48.5817,-120.7948
-7114,0.0,Small,38.4803,-81.9246
-7057,0.0,Medium,0.0515,34.7225
-7779,0.0,Small,44.6881,-124.0636
-3673,0.0,Medium,27.7,83.45
-7273,0.0,Medium,39.0712,70.4275
-338,3.0,Medium,15.5946,107.966
-4678,3.0,Large,0.772146528,35.56619905
-5703,0.0,Small,54.6086,-3.5679
-3819,0.0,Medium,16.1514,-92.7704
-9156,0.0,Medium,32.5348,-97.835
-2236,5.0,Medium,1.0195,34.3554
-5494,0.0,Medium,42.2872,-110.1938
-3045,0.0,Medium,44.8003,-122.4157
-7873,0.0,Small,-25.8451,28.0851
-1698,0.0,Medium,-22.9509,-43.2357
-1788,0.0,Medium,41.8555,44.7229
-4013,0.0,Large,44.2231,9.7197
-2170,49.0,Large,35.049,72.7541
-8225,0.0,Small,42.8629,-8.6238
-5836,14.0,Large,-17.2353,-66.532
-1321,3.0,Medium,2.8,98.5333
-1740,0.0,Medium,15.4004,-61.344
-5344,0.0,Medium,64.0056,-149.1201
-9531,0.0,Medium,38.0455,-120.3454
-262,1.0,Medium,11.0333,122.2
-1715,0.0,Medium,-22.9766,-43.2903
-8210,0.0,Medium,50.479,-122.6205
+id,fatalities,landslide_size,trigger,hazard_type,country,population,latitude,longitude
+943,1,Medium,Unknown,landslide,India,40283,30.895,77.089
+3594,0,Small,Downpour,landslide,China,0,29.1935,119.7975
+3240,0,Medium,Rain,landslide,United States,1009,43.3197,-73.9295
+2402,0,Medium,Downpour,landslide,Italy,887,40.6378,14.6074
+5707,0,Medium,Downpour,landslide,United Kingdom,25500,51.2934,-0.1532
+4534,3,Medium,Downpour,landslide,Papua New Guinea,26252,-6.1415,143.6517
+1064,13,Large,Monsoon,landslide,Nepal,1600,28,85.71
+3377,0,Small,Downpour,landslide,United States,3925,38.5293,-84.599
+3715,0,Small,Rain,landslide,United States,3165,40.4248,-79.9369
+4567,5,Large,Downpour,landslide,Nepal,22903,27.4191,87.2714
+12,24,Large,Downpour,landslide,Indonesia,0,3.5424,125.5401
+4257,0,Medium,Downpour,landslide,Peru,0,-13.5168,-73.7262
+2208,0,Medium,Downpour,landslide,Pakistan,2005,36.6567,74.8609
+4214,0,Small,Downpour,landslide,United States,2363,21.9148,-159.5157
+6105,0,Small,Rain,landslide,Canada,1385,49.9537,-123.3589
+5062,2,Medium,Downpour,landslide,India,12691836,19.0263,72.8676
+3685,0,Medium,Downpour,landslide,Nepal,21867,27.9939,84.094
+2838,0,Medium,Downpour,landslide,Indonesia,0,-8.1578,115.113
+4595,15,Large,Rain,landslide,Indonesia,0,-3.1713,119.3657
+4933,5,Medium,Downpour,landslide,India,1495,31.6223,78.0193
+1696,0,Medium,Downpour,landslide,Brazil,6023699,-22.962,-43.1737
+3670,0,Medium,Downpour,landslide,China,0,21.4758,101.5675
+2182,0,Medium,Downpour,landslide,Thailand,2346,11.9773,102.3183
+5391,3,Medium,Tropical_Cyclone,landslide,Mexico,30607,20.5004,-97.4647
+1076,15,Large,Tropical_Cyclone,landslide,Philippines,272714,16.40331346,120.589519
+1979,1,Medium,Downpour,landslide,China,0,25.0699,109.2608
+6081,0,Medium,Continuous_rain,landslide,Nicaragua,5827,12.3506,-84.8089
+2250,0,Medium,Downpour,landslide,India,13865,30.7284,79.4971
+2660,0,Medium,Tropical_Cyclone,landslide,Trinidad and Tobago,0,11.2288,-60.6054
+4721,11,Large,Rain,landslide,Indonesia,0,-0.2122,100.1682
+978,2,Medium,Downpour,landslide,Italy,959470,40.8403,14.252
+4015,0,Medium,Downpour,landslide,Trinidad and Tobago,8140,10.7539,-61.4407
+5120,1,Medium,Monsoon,landslide,Thailand,78756,19.9282,99.7817
+311,3,Medium,Rain,landslide,Bangladesh,37985,22.5333,89.4
+6138,0,Small,Downpour,landslide,United States,575,38.2114,-118.8782
+1057,0,Medium,Downpour,landslide,India,46427,26.8826,88.2788
+1405,0,Medium,Downpour,landslide,Philippines,2939,8.5055,125.7407
+5843,0,Medium,unknown,landslide,United Kingdom,12856,51.2675,-0.0271
+4965,0,Medium,Downpour,landslide,India,27611,30.4542,78.3911
+526,19,Medium,Unknown,landslide,Indonesia,0,-4.4032,136.0438
+2430,2,Medium,Tropical_Cyclone,landslide,Mexico,1324,19.2818,-96.3149
+875,4,Medium,Downpour,landslide,China,1023674,25.0967,102.695
+1985,0,Small,Downpour,landslide,United States,6009,45.5686,-122.7713
+2682,0,Medium,Tropical_Cyclone,landslide,Costa Rica,7084,8.6844,-82.9418
+2590,0,Medium,Downpour,landslide,Philippines,23706,10.1833,123.6833
+3898,0,Medium,Downpour,landslide,India,135860,25.7713,93.8067
+5168,0,Medium,Downpour,landslide,India,2571,30.262,79.2191
+987,0,Medium,Downpour,landslide,Peru,5800,-11.9374,-76.701
+4084,0,Large,Downpour,landslide,Malaysia,19294,5.9521,116.6733
+4093,0,Medium,Downpour,landslide,Philippines,0,10.3503,125.1094
+869,7,Medium,Downpour,landslide,India,48824,26.3333,91.25
+6153,3,Small,Continuous_rain,landslide,India,2571,30.6326,78.9953
+3648,0,Large,Downpour,landslide,India,417387,12.9141,74.856
+1215,12,Medium,Tropical_Cyclone,landslide,Philippines,0,16.5364,120.8512
+929,2,Medium,Rain,landslide,Guatemala,18994,15.3796,-90.5316
+1770,0,Medium,Downpour,landslide,Azerbaijan,313300,40.6905,46.3667
+2893,0,Medium,Downpour,landslide,Australia,2564,-21.1313,148.4943
+1019,0,Small,Continuous_rain,landslide,United States,17916,39.723,-91.3708
+3615,2,Medium,Downpour,landslide,China,0,28.9012,118.512
+5930,0,Medium,Downpour,landslide,Pakistan,0,35.1148,73.0068
+4894,0,Medium,Downpour,landslide,India,30700,27.3721,88.708
+2119,0,Small,Downpour,landslide,Trinidad and Tobago,4342,10.6871,-61.6002
+5226,12,Medium,Continuous_rain,landslide,Indonesia,355596,-3.6498,128.1849
+4041,0,Medium,Downpour,landslide,United States,1486,47.6269,-121.9754
+482,0,Small,Rain,landslide,United States,4741,39.096,-84.2992
+2236,5,Medium,Downpour,landslide,Uganda,0,1.0195,34.3554
+1684,0,Medium,Downpour,landslide,Brazil,6023699,-22.9229,-43.3057
+1944,0,Small,Downpour,landslide,United States,4432,40.4127,-80.0284
+5823,0,Large,Downpour,landslide,United Kingdom,89100,50.854,0.5745
+2871,0,Medium,Downpour,landslide,United States,24917,33.7465,-117.7349
+2581,5,Medium,Downpour,landslide,Philippines,2312,8.2036,124.9292
+5783,0,Medium,Unknown,landslide,United Kingdom,2788,51.4017,0.2355
+4999,0,Medium,Downpour,landslide,United States,1415,39.4302,-120.0336
+4881,1,Medium,Downpour,landslide,Austria,0,47.5244,12.4306
+5963,0,Small,unknown,landslide,United States,16325,39.0787,-84.4386
+4896,0,Medium,Downpour,landslide,Nepal,23296,28.376,83.4946
+1312,1,Medium,Rain,landslide,Malaysia,39595,4.2333,100.6333
+725,2,Medium,Downpour,landslide,Nepal,0,28.0993,82.8332
+4738,10,Medium,Mining_digging,landslide,Philippines,5470,12.1012,121.3734
+3416,0,Small,Downpour,landslide,United States,4801,39.0188,-84.2677
+6122,0,Small,Rain,landslide,Iceland,2624,65.9794,-21.4541
+1830,3,Medium,Downpour,landslide,Ecuador,165216,0.9374,-79.6671
+6040,3,Medium,Continuous_rain,landslide,Nepal,9073,29.5442,81.6254
+791,2,Medium,Tropical_Cyclone,landslide,Taiwan,0,24.5646,120.8922
+5976,0,Small,Rain,landslide,Canada,242124,45.49,-75.7628
+5496,0,Medium,Rain,landslide,United States,97385,40.0116,-105.298
+3807,1,Medium,Rain,landslide,India,8247,30.1665,78.1123
+1734,14,Large,Rain,landslide,China,0,29.5248,103.3545
+3098,0,Medium,Downpour,landslide,Sri Lanka,66716,7.6235,80.6349
+3587,0,Medium,Rain,landslide,United States,5338,39.1186,-84.4826
+5207,2,Medium,Downpour,landslide,Bangladesh,3920222,22.3521,91.8151
+2523,0,Small,Downpour,landslide,United States,10519,38.3558,-76.3915
+3319,0,Small,Continuous_rain,landslide,United States,20254,47.9502,-122.2935
+2850,0,Medium,Downpour,landslide,Philippines,2401,17.8171,121.3106
+3513,0,Small,Downpour,landslide,United States,9128,39.9121,-111.7429
+5098,0,Medium,Downpour,landslide,United States,1320,37.9935,-108.0086
+3181,0,Small,Downpour,landslide,United States,2701,43.1372,-79.0415
+3913,0,Small,Unknown,landslide,New Zealand,381900,-41.3078,174.798
+2278,0,Medium,Downpour,landslide,Nepal,15056,27.7592,82.6335
+3299,0,Medium,Downpour,landslide,United States,37882,37.0905,-121.7522

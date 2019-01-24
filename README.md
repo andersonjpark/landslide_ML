@@ -1,12 +1,23 @@
 # Landslide Machine Learning
 
-## Applying Machine Learning to the dataset
+## The research objective of this proposal is to figuring out the reasoning of large number of fatalities on specific regions.
 
-Applying algorithms to the dataset to find out the geolocation of cities that needs better preparation on landslides. It is found based on the fatalities proportional to the size of the landslide.
+This project contains 3 parts.
+
+1. Understanding the factors that lead to huge number of fatalities from landslide_size
+
+2. Classifying regions by clustering. (Could be done from using countries in the dataset, but I want to take a step farther)
+
+3. Visualizing the result by making an HTML that contains a world map and dots for each landslides. (The regions are distinguishable based on colors and size of the dots are based on the number of fatalities for that landslide.)
+
+
+Part 1 will be supervised regression.
+
+Part 2 will be unsupervised clustering.
+
+Part 3 will be using the html already made from Landslide_visualization.
 
 Source: https://data.nasa.gov/dataset/Global-Landslide-Catalog-Export/dd9e-wu2v/data
-
-## Procedure
 
 ## What should be done
 
